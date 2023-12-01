@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ✨ About Me:
+# About Me:
 I'm a Computer Science student<br>I'm a Graphic designer
 
 
