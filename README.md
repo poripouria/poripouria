@@ -1,6 +1,6 @@
 
 # ⚡ About Me:
-I'm a Computer Science student<br>I'm a Graphic designer<br>
+I'm a Computer Science (AI and Soft Computing) student<br>I'm a Graphic designer<br>
 
 
 ## 🌐 Socials:
